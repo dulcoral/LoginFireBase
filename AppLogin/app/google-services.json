@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "106631602288",
+    "firebase_url": "https://loginbambu.firebaseio.com",
+    "project_id": "loginbambu",
+    "storage_bucket": "loginbambu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106631602288:android:41f9614b3077914c",
+        "android_client_info": {
+          "package_name": "com.example.ghost.bambuexcersise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106631602288-hih7u8qn0jvkrqajgug73sfn4r9ofiit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDLxd6poNfOnzNKMOWXYKhpB2ky4E-4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
