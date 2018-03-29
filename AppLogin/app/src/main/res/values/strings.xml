@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BambuExcercise</string>
+    <string name="error">Authentication failed. Incorrect username or password.</string>
+    <string name="email">"Enter a valid email address"</string>
+    <string name="pass">Between 8 and 16 alphanumeric characters</string>
+    <string name="auth">Authenticating...</string>
+</resources>
